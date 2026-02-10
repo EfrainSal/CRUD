@@ -130,8 +130,8 @@ function App() {
     <div className="container mt-5" style={{ maxWidth: '800px' }}>
       <div className="card shadow-sm border-0">
         <div className="card-header bg-dark text-white text-center py-3">
-          <h3 className="mb-0">🔒 Secure Vault App</h3>
-          <small className="text-white-50">Single Input Safe CRUD</small>
+          <h3 className="mb-0"> CURD seguro</h3>
+          <small className="text-white-50"> SEGURIDAD </small>
         </div>
         
         <div className="card-body p-4">
