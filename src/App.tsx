@@ -130,7 +130,7 @@ function App() {
     <div className="container mt-5" style={{ maxWidth: '800px' }}>
       <div className="card shadow-sm border-0">
         <div className="card-header bg-dark text-white text-center py-3">
-          <h3 className="mb-0"> CURD seguro</h3>
+          <h3 className="mb-0"> CRUD SEGURO</h3>
           <small className="text-white-50"> SEGURIDAD </small>
         </div>
         
