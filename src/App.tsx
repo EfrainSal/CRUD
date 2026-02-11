@@ -141,7 +141,7 @@ function App() {
               <input
                 type="text"
                 className="form-control"
-                placeholder="Escribe algo seguro..."
+                placeholder="Escribe algo..."
                 value={editingId === null ? inputValue : ''} 
                 onChange={(e) => editingId === null && setInputValue(e.target.value)}
                 maxLength={100} // Límite duro en cliente
